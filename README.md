@@ -1,1 +1,1 @@
-# launchbox-screenscraper
+# launchbox media manager
